@@ -1,0 +1,4 @@
+-This is the pb folder that all the generated codes will be placed in. 
+-The generated codes are the ones that are used to serialize and deserialize the messages. 
+-The generated codes are not meant to be modified by the user. 
+-The user should only modify the .proto files and then regenerate the codes using the protoc command.

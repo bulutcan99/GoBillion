@@ -1,0 +1,8 @@
+.env
+.docker.env
+.idea
+qodana.yaml
+proto/pb/*.pb.go
+.data
+cmd/consumer/config.yml
+cmd/producer/config.yml

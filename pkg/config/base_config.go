@@ -1,4 +1,4 @@
-package baseconfig
+package config
 
 type (
 	App struct {
